@@ -10,8 +10,8 @@
 - ###### Templates must be installed within 'RyzenAdj' folder of 'Task Scheduler',
 - ###### Create and place all the files(including the [RyzenAdj](https://github.com/FlyGoat/RyzenAdj/releases), AC Switcher.bat, DC Switcher.bat, Switcher.bat) in the folder named ```RyzenAdj``` in the ```C:\``` directory like this ```C:\RyzenAdj\```.
 
-## PS
-- ###### Feel free to make suggestions, report bugs on this project's [discussions](https://github.com/theDebonair/ryzenadj_2500u_a315/discussions) tab.
-
 ## Attention
 ###### I'm not responsible for any kind of damage(s) these files can make to your device. USE AT YOUR OWN RISK!
+
+## PS
+- ###### Feel free to make suggestions, report bugs on this project's [discussions](https://github.com/theDebonair/ryzenadj_2500u_a315/discussions) tab.
