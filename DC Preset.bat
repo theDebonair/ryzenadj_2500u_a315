@@ -1,2 +1,2 @@
 @echo off
-%~dp0\ryzenadj.exe --stapm-limit=15000 --fast-limit=25000 --slow-limit=20000 --stapm-time=900 --slow-time=60 --vrm-current=21750 --vrmmax-current=32250 --power-saving
+%~dp0\ryzenadj.exe --stapm-limit=15000 --stapm-time=60 --fast-limit=28500 --slow-limit=23750 --slow-time=900 --vrm-current=36325 --vrmmax-current=50870 --max-performance --tctl-temp=65
